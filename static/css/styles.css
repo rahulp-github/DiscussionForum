@@ -1,0 +1,60 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;  
+    margin: 0; 
+    padding: 0;                                                                                               
+}
+/*------------------------------------------------ Global -----------------------------------------*/
+a{
+    text-decoration: none;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    border: 1px;
+    border-color: #ccc;
+
+}
+
+/* ----------------------------------------------- Nav Bar ---------------------------------------- */
+.navBar{
+    background-color: black;
+    width: 100%;
+}
+
+.navBar ul {
+    padding: 15px;
+}
+
+.navBar ul li{
+    display: inline;
+    list-style: none;
+}
+
+.navBar ul li a{
+    color:aliceblue;
+    padding: 10px;
+}
+
+.button{
+    border: 1px;
+    background-color: green;
+    border-radius: 12px;
+}
+
+.login{
+    float: right;
+    margin-right: 10%;
+}
+
+.button:hover{
+    transition:all ease 0.5s;
+    color: black;
+}
+
+/* -------------------------------------------------------------*/
+.heading{
+    margin-top: 5px;
+    border: 2px solid #ccc;
+    padding: 10px;
+}
