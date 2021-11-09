@@ -71,6 +71,10 @@ Creating a New Post
 
 ![image](https://user-images.githubusercontent.com/71189359/140924780-00fbcfe8-6965-4ea1-9000-1cf19cf1162a.png)
 
+Detailed Discussion Page
+![image](https://user-images.githubusercontent.com/71189359/140925944-f9723b2f-29dc-432b-a30e-38869f71df06.png)
+
+
 College Events Section
 
 ![image](https://user-images.githubusercontent.com/71189359/140924884-f42e3f67-88ff-426f-bc34-4674774d704a.png)
